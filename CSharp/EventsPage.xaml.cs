@@ -15,6 +15,8 @@ namespace CSharp
             m.WSCalled += OnWSFinished1;
             m.WSCalled += OnWSFinished2;
 
+            m.SystemWsCalled += OnWSFinished1;
+
 
             m.doEvent();
             

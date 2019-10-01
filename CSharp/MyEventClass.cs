@@ -10,6 +10,7 @@ namespace CSharp
 
         //Define event based on that delegate
         public event CallWSEventHandler WSCalled;
+        public event EventHandler SystemWsCalled;
 
         internal void doEvent()
         {
@@ -21,6 +22,7 @@ namespace CSharp
         private void WSDone()
         {
             WSCalled?.Invoke(this, EventArgs.Empty);
+            SystemWsCalled?.Invoke(this, EventArgs.Empty);
         }
     }
 }
