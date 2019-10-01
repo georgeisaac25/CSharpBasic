@@ -10,7 +10,7 @@ namespace CSharp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new EventsPage();
         }
 
         protected override void OnStart()
