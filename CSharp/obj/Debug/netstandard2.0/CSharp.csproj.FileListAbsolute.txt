@@ -1,0 +1,15 @@
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/DatabindingPage.xaml.g.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/DelegateLearnPage.xaml.g.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/EventsPage.xaml.g.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/ListViewPage.xaml.g.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/CSharp.AssemblyInfoInputs.cache
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/CSharp.AssemblyInfo.cs
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/CSharp.dll
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/CSharp.pdb
+/Users/george.issac/Projects/CSharp/CSharp/bin/Debug/netstandard2.0/CSharp.deps.json
+/Users/george.issac/Projects/CSharp/CSharp/bin/Debug/netstandard2.0/CSharp.dll
+/Users/george.issac/Projects/CSharp/CSharp/bin/Debug/netstandard2.0/CSharp.pdb
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/CSharp.csprojAssemblyReference.cache
+/Users/george.issac/Projects/CSharp/CSharp/obj/Debug/netstandard2.0/XamlC.stamp

@@ -6,6 +6,8 @@ namespace CSharp
     internal class MyEventClass
     {
         //Define a delegate
+        public delegate int AddD(int a, int b);
+
         public delegate void CallWSEventHandler(Object o, EventArgs eventArgs);
 
         //Define event based on that delegate

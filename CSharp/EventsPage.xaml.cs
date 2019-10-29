@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 
 using Xamarin.Forms;
+using static CSharp.MyEventClass;
 
 namespace CSharp
 {
@@ -12,10 +13,18 @@ namespace CSharp
             InitializeComponent();
             MyEventClass m = new MyEventClass();
 
+            //AddD callWSEventHandler = (i1, i2) =>
+            //{
+            //    return i1 + i2;
+            //};
+            //callWSEventHandler.Invoke(10, 20);
+
             m.WSCalled += OnWSFinished1;
             m.WSCalled += OnWSFinished2;
 
             m.SystemWsCalled += OnWSFinished1;
+
+            
 
 
             m.doEvent();

@@ -4,17 +4,25 @@ using Xamarin.Forms;
 
 namespace CSharp
 {
-    public class Contacts : ContentPage
-    {
-        public Contacts()
+    
+        public class Contacts
         {
-            Content = new StackLayout
+            public string Name
             {
-                Children = {
-                    new Label { Text = "Hello ContentPage" }
-                }
-            };
-        }
+                get;
+                set;
+            }
+            public string Num
+            {
+                get;
+                set;
+            }
+            public string imgsource
+            {
+                get;
+                set;
+            }
+        
     }
 }
 

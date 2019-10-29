@@ -15,6 +15,7 @@ namespace CSharp
 
         public bool IsEligibleForPromotion(Employee employee,IsEligibleDelegate isEligibleDelegate)
         {
+            ///ws operation
             return isEligibleDelegate.Invoke(employee);
         }
 

@@ -10,6 +10,16 @@ namespace CSharp
         public DatabindingPage()
         {
             InitializeComponent();
+            BindingContext = new DataBindingViewModel();
+
+            
+
+            MessagingCenter.Subscribe<string, string>("MyApp", "NotifyMsg", (sender, arg) =>
+            {
+                Console.WriteLine("*******" +arg);
+
+            });
+
         }
     }
 }

@@ -20,8 +20,7 @@ namespace CSharp
             Employee employee2 = new Employee(100, "Architect");
 
             //in normal method call.
-            employee1.IsEligibleForPromotionBasedOnSalary(employee1);
-
+            //employee1.IsEligibleForPromotionBasedOnSalary(employee1);
             
             // we can pass the method in the form of delegate.
             employee1.IsEligibleForPromotion(employee1, delegate (Employee employee)

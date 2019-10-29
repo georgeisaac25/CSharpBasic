@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{0CBCE5CE-3F79-49D2-AEE7-4541AC096483}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp/DataBindingViewModel.cs">
+    <Files>
+      <File FileName="CSharp/DelegateLearnPage.xaml.cs" Line="30" Column="1" />
+      <File FileName="CSharp/Employee.cs" />
+      <File FileName="CSharp/EventsPage.xaml.cs" />
+      <File FileName="CSharp/MyEventClass.cs" />
+      <File FileName="CSharp/ListViewPage.xaml" />
+      <File FileName="CSharp/ListViewPage.xaml.cs" />
+      <File FileName="CSharp/Contacts.cs" Line="1" Column="1" />
+      <File FileName="CSharp/DataBindingViewModel.cs" Line="11" Column="1" />
+      <File FileName="CSharp/DatabindingPage.xaml" Line="15" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp" expanded="True">
+            <Node name="CSharp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DatabindingPage.xaml" expanded="True" />
+              <Node name="DataBindingViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/george.issac/Projects/CSharp/CSharp/DelegateLearnPage.xaml.cs" relfile="CSharp/DelegateLearnPage.xaml.cs" line="28" column="1" />
+      <Breakpoint file="/Users/george.issac/Projects/CSharp/CSharp/DataBindingViewModel.cs" relfile="CSharp/DataBindingViewModel.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Nexus_4_API_28" />
+</Properties>
